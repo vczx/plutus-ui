@@ -23,4 +23,4 @@ yarn build
 ```
 ## Starting Plutus-Server
 
-* Refer to
+* Refer to server project readme.md
