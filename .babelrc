@@ -1,0 +1,16 @@
+{
+  "presets": [
+    "react-app"
+  ],
+  "plugins": [
+    "emotion",
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "libraryDirectory": "es",
+        "style": "css"
+      }
+    ]
+  ]
+}
